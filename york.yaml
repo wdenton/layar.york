@@ -1,0 +1,2097 @@
+---
+layers:
+- layer: York University
+  id: 1
+  refreshInterval: 300
+  refreshDistance: 100
+  fullRefresh: 1
+  showMessage: ''
+  biwStyle: classic
+pois:
+- id: 1622
+  title: 190 Albany Road
+  description: ! 'Building operating hours: 8:30am to 4:30pm Monday to Friday, '
+  footnote: ''
+  lat: '43.7791157047'
+  lon: '-79.4994950294'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/190-1-copy-300x199.jpg
+  iconID: 1
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 62
+  title: 320 Assiniboine Road (AS2)
+  description: ''
+  footnote: ''
+  lat: '43.7686765824'
+  lon: '-79.5025742054'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-320-copy-199x300.jpg
+  iconID: 2
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 63
+  title: 340 Assiniboine Road (AS4)
+  description: ''
+  footnote: ''
+  lat: '43.768853'
+  lon: '-79.5034732'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-340-4-copy-199x300.jpg
+  iconID: 3
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 64
+  title: 360 Assiniboine Road (AS6)
+  description: ''
+  footnote: ''
+  lat: '43.7684001'
+  lon: '-79.5041761'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-360-2-copy-199x300.jpg
+  iconID: 4
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 65
+  title: 380 Assiniboine Road (AS8)
+  description: ''
+  footnote: ''
+  lat: '43.7680865917'
+  lon: '-79.504891634'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assininboine-380-copy-199x300.jpg
+  iconID: 5
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 12
+  title: Accolade East (ACE)
+  description: ! 'Building operating hours:; 6:30am to 11:00pm Monday to Friday; 8:00am
+    to 8:00pm Saturday and Sunday; Accessible Washroom (Women) room: '
+  footnote: ''
+  lat: '43.772851288'
+  lon: '-79.4997954369'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/accolade-east-22-copy-300x199.jpg
+  iconID: 6
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 13
+  title: Accolade West (ACW)
+  description: Building operating hours:; 6:30am to 11:00pm Monday to Friday; 8:00am
+    to 8:00pm Saturday and Sunday
+  footnote: ''
+  lat: '43.7725104118'
+  lon: '-79.5024561882'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/accolade-west-21-copy-300x199.jpg
+  iconID: 7
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 88
+  title: Albany Road Lot
+  description: ''
+  footnote: ''
+  lat: '43.7776167666'
+  lon: '-79.5009219646'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 8
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 77
+  title: Arboretum Lane Parking Garage (ARB)
+  description: ''
+  footnote: ''
+  lat: '43.772596793'
+  lon: '-79.507085681'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/aboretum-5-copy-300x199.jpg
+  iconID: 9
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 14
+  title: Archives of Ontario (AO)
+  description: ! 'Monday, Wednesday, Friday: 8:00am-5:00pm; Tuesday and Thursday:
+    8:30am-8:00pm; Saturday: 10:00am-4:00pm'
+  footnote: ''
+  lat: '43.7748628055'
+  lon: '-79.5005893707'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/archives-13-copy-300x199.jpg
+  iconID: 10
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 109
+  title: Art Gallery of York University AGYU (ACE)
+  description: ''
+  footnote: ''
+  lat: '43.7731545887'
+  lon: '-79.4998705387'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 11
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 15
+  title: Atkinson (ATK)
+  description: Building operating hours:; 6:30am to 11:00pm Monday to Friday; Saturday
+    7:00am to 6:00pm, Sunday 10:00am to 11:00pm; Accessible, Gender
+  footnote: ''
+  lat: '43.7710111971'
+  lon: '-79.5025307373'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/atkinson-200-copy-300x199.jpg
+  iconID: 12
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 89
+  title: Atkinson Lot
+  description: ''
+  footnote: ''
+  lat: '43.7706008'
+  lon: '-79.5029588'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 13
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 16
+  title: Behavioural Science (BSB)
+  description: ! 'Building operating hours: Monday-Friday: 7:30am-11:00pm; Saturday:
+    9:00am-11:00pm; Sunday: closed; Accessible Washroom (Women) room 161'
+  footnote: ''
+  lat: '43.7735651849'
+  lon: '-79.5037865639'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/behavourial-50-copy-300x199.jpg
+  iconID: 14
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 17
+  title: Bennett Centre for Student Services / Admissions (BCSS)
+  description: In order to provide access to the Student Services Parking Structure,;
+    parts of the Bennett Centre for Student Services building; is op
+  footnote: ''
+  lat: '43.7720790853'
+  lon: '-79.4985070604'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bennett-2-copy-300x199.jpg
+  iconID: 15
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 18
+  title: Bookstore – York Lanes (YL)
+  description: ''
+  footnote: ''
+  lat: '43.7744134833'
+  lon: '-79.500798583'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-8-copy-300x199.jpg
+  iconID: 16
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 110
+  title: Burton Auditorium (BU)
+  description: ''
+  footnote: ''
+  lat: '43.7726503'
+  lon: '-79.5018525'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/burton-32-copy-300x199.jpg
+  iconID: 17
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 19
+  title: Calumet College (CC)
+  description: Accessible Washroom (Men) available room 111
+  footnote: ''
+  lat: '43.772803643'
+  lon: '-79.5097410679'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/calumet-college-4-copy-300x199.jpg
+  iconID: 18
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 67
+  title: Calumet Residence (CR)
+  description: Building is locked at all times - accessible to tenants only
+  footnote: ''
+  lat: '43.7722912'
+  lon: '-79.5094474'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/calumet-res-1-copy-300x199.jpg
+  iconID: 19
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 117
+  title: Canlan Ice Sports (ICE)
+  description: ''
+  footnote: ''
+  lat: '43.7744560916'
+  lon: '-79.5138716698'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/canlan-18-copy-300x199.jpg
+  iconID: 20
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 20
+  title: Central Square (CSQ)
+  description: ''
+  footnote: ''
+  lat: '43.7727707158'
+  lon: '-79.5048533743'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/central-square-30-copy-199x300.jpg
+  iconID: 21
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 11
+  title: Central Utilities Building (CUB)
+  description: ''
+  footnote: ''
+  lat: '43.7773588061'
+  lon: '-79.4987225533'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/central-utilities-2-copy-300x199.jpg
+  iconID: 22
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 22
+  title: Centre for Film & Theatre (CFT)
+  description: ! 'Building operating hours:; 6:30am to 11:00pm Monday to Friday; 8:00am
+    to 8:00pm Saturday and Sunday; Accessible Washroom (Women) room: '
+  footnote: ''
+  lat: '43.7726885973'
+  lon: '-79.5011097193'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/film-and-theatre-32-copy-300x199.jpg
+  iconID: 23
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 23
+  title: Chemistry (CB)
+  description: ! 'Building operating hours: 7:00am to 9:00pm Monday to Friday; Weekends
+    building is locked 24hr; Accessible Washroom (Men) rooms: 114, 23'
+  footnote: ''
+  lat: '43.7732378702'
+  lon: '-79.5077884197'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/chemistry-58-copy-300x199.jpg
+  iconID: 24
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 24
+  title: Computer Methods Building (CMB)
+  description: ''
+  footnote: ''
+  lat: '43.7787864838'
+  lon: '-79.4954395294'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/computer-methods-6-copy-300x199.jpg
+  iconID: 25
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1647
+  title: ! 'Construction Notice: Advanced Temporary Road Construction for York University
+    Station'
+  description: ''
+  footnote: ''
+  lat: '43.7747272345'
+  lon: '-79.4969415665'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/11/TTCconstruction-notice-Nov2010.jpg
+  iconID: 26
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 26
+  title: Curtis Lecture Halls (CLH)
+  description: ''
+  footnote: ''
+  lat: '43.7731456795'
+  lon: '-79.5049989223'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/curtis-lecture-halls-20-copy-300x199.jpg
+  iconID: 27
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 28
+  title: Executive Learning Centre (ELC)
+  description: ! 'Building operating hours:; 24hr operation with a Front Desk Attendant;
+    on staff at night; Accessible Washroom (Women) room: X129, X222;'
+  footnote: ''
+  lat: '43.7728679443'
+  lon: '-79.4982343912'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/schulich-3-copy-300x199.jpg
+  iconID: 28
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 29
+  title: Farquharson Life Sciences (FRQ)
+  description: 7:00am to 9:00pm Monday to Friday, ; Saturday &amp; Sunday closed
+  footnote: ''
+  lat: '43.7742159355'
+  lon: '-79.5043605566'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/fargygarsib-3-copy-300x199.jpg
+  iconID: 29
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 30
+  title: Founders College (FC)
+  description: ''
+  footnote: ''
+  lat: '43.7760120477'
+  lon: '-79.5033144951'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/founders-college-6-copy-300x199.jpg
+  iconID: 30
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 68
+  title: Founders Residence (FR)
+  description: Building is locked at all times - accessible to tenants only
+  footnote: ''
+  lat: '43.7760920339'
+  lon: '-79.5040055888'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/founders-res-1-copy-300x199.jpg
+  iconID: 31
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 91
+  title: Founders Road East Lot
+  description: ''
+  footnote: ''
+  lat: '43.7781435295'
+  lon: '-79.5030784607'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 32
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 81
+  title: Founders Road East Lot
+  description: ''
+  footnote: ''
+  lat: '43.7789646507'
+  lon: '-79.5030784607'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 33
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 92
+  title: Founders Road West Lot
+  description: ''
+  footnote: ''
+  lat: '43.7779835645'
+  lon: '-79.504532218'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 34
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 111
+  title: Gales Gallery (ACW)
+  description: ''
+  footnote: ''
+  lat: '43.7723178933'
+  lon: '-79.5025634766'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 35
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1056
+  title: Glendon Hall (GH)
+  description: ''
+  footnote: ''
+  lat: '43.727687644'
+  lon: '-79.3765962124'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/glendon-hall-33-copy-300x199.jpg
+  iconID: 36
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 69
+  title: Harry Sherman Crowe Housing Co-op (HCC)
+  description: ''
+  footnote: ''
+  lat: '43.7763128'
+  lon: '-79.4993438'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/sherman-co-op-21-copy-300x199.jpg
+  iconID: 37
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 122
+  title: Hart House (HH)
+  description: ''
+  footnote: ''
+  lat: '43.7701525021'
+  lon: '-79.5050954819'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/hart-house-1-copy-300x199.jpg
+  iconID: 38
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 31
+  title: Health, Nursing & Environmental Studies (HNE)
+  description: ! 'Building operating hours:; Monday to Friday: 7:00am to 9:00pm; Saturday
+    and Sunday: 8:00am-9:00pm; Accessible, Gender Neutral Barrier F'
+  footnote: ''
+  lat: '43.7712952496'
+  lon: '-79.5045858622'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/health-and-nursing-22-copy-300x199.jpg
+  iconID: 39
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 123
+  title: Hoover House (HOH)
+  description: ''
+  footnote: ''
+  lat: '43.7683256104'
+  lon: '-79.5092582703'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/hoover-house-2-copy-300x199.jpg
+  iconID: 40
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 40
+  title: Ignat Kaneff Building, Osgoode Hall Law School (OSG)
+  description: ''
+  footnote: ''
+  lat: '43.7707645527'
+  lon: '-79.5041191578'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/osgoode-20-copy-300x199.jpg
+  iconID: 41
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1583
+  title: Information Kiosk
+  description: ''
+  footnote: ''
+  lat: '43.7728563236'
+  lon: '-79.5042157173'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/ross-25-copy-300x199.jpg
+  iconID: 42
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 32
+  title: Joan & Martin Goldfarb Centre for Fine Arts (CFA)
+  description: ''
+  footnote: ''
+  lat: '43.7720157504'
+  lon: '-79.5021289587'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/goldfarb-1-copy-300x199.jpg
+  iconID: 43
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 112
+  title: Joseph Green Studio Theatre (CFT)
+  description: ''
+  footnote: ''
+  lat: '43.7725038266'
+  lon: '-79.5010882616'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 44
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 33
+  title: Kinsmen (K)
+  description: Building operating hours:; Monday-Friday 8:00am-5:00pm;; Saturday &amp;
+    Sunday closed
+  footnote: ''
+  lat: '43.7779692334'
+  lon: '-79.4954448938'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/kinsmen-43-copy-300x199.jpg
+  iconID: 45
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 87
+  title: Kinsmen Lot
+  description: ''
+  footnote: ''
+  lat: '43.7782519801'
+  lon: '-79.4959652424'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 46
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 25
+  title: Lassonde Building (LAS)
+  description: ! 'Building operating hours: 7:00am to 9:00pm; Monday to Friday, weekends
+    building is locked 24hr; Accessible Washroom (Women) room: 1019;'
+  footnote: ''
+  lat: '43.7737085056'
+  lon: '-79.5050767064'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/computer-science-5-copy-300x199.jpg
+  iconID: 47
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 35
+  title: Life Sciences Building (LSB)
+  description: Building is hours of operation:; 7:00am to 9:00pm Monday to Friday;
+    Saturday and Sunday; Barrier Free Accessible Gender Neutral washroo
+  footnote: ''
+  lat: '43.7741229715'
+  lon: '-79.5076704025'
+  imageURL: http://www.yorku.ca/yfile/photos/20090526/building.jpg
+  iconID: 48
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 34
+  title: Lorna R. Marsden Honour Court & Welcome Centre (HC)
+  description: Building is temporarily closed during subway station construction.;
+    Please direct campus way finding inquiries to Temporary Welcome Cen
+  footnote: ''
+  lat: '43.7741539595'
+  lon: '-79.4985884428'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/honour-court-3-copy-300x199.jpg
+  iconID: 49
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 36
+  title: Lumbers (LUM)
+  description: ! 'Building operating hours:; Monday - Friday: 7:00am to 9:00pm; Saturday
+    and Sunday: closed; Accessible Washroom (Women) room: 230; Acces'
+  footnote: ''
+  lat: '43.7746873379'
+  lon: '-79.5049291849'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/lumbers-24-copy-300x199.jpg
+  iconID: 50
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 37
+  title: McLaughlin College (MC)
+  description: ''
+  footnote: ''
+  lat: '43.7768382335'
+  lon: '-79.5027190447'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/McLaughlin-3-copy-300x199.jpg
+  iconID: 51
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 113
+  title: McLean Performance Studio (ACE)
+  description: ''
+  footnote: ''
+  lat: '43.7727273332'
+  lon: '-79.4994145632'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 52
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 95
+  title: Nelson Road Lot
+  description: ''
+  footnote: ''
+  lat: '43.7712642602'
+  lon: '-79.5056319237'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 53
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 38
+  title: Norman Bethune College (BC)
+  description: ! 'Barrier Free Accessible Gender Neutral Washroom room: 200B'
+  footnote: ''
+  lat: '43.7729841517'
+  lon: '-79.5089685917'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bethune-college-6-copy-300x199.jpg
+  iconID: 54
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 70
+  title: Norman Bethune Residence (BR)
+  description: ''
+  footnote: ''
+  lat: '43.7731636'
+  lon: '-79.5084811'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bethune-res-6-copy-300x199.jpg
+  iconID: 55
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1555
+  title: North West Gate Lot – Subway Construction
+  description: ''
+  footnote: ''
+  lat: '43.7767336536'
+  lon: '-79.5087218285'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 56
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 96
+  title: Northwest Gate Lot – Reserved
+  description: ''
+  footnote: ''
+  lat: '43.776095'
+  lon: '-79.509923'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 57
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 82
+  title: Northwest Gate Lot – Visitors
+  description: ''
+  footnote: ''
+  lat: '43.7771480986'
+  lon: '-79.5101380348'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 58
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 39
+  title: Observatory, Petrie (PSE)
+  description: Observatory Hours:; The Observatory is open for online viewing Monday
+    nights;  and public (in person) viewing on Wednesday nights at th
+  footnote: ''
+  lat: '43.7738905611'
+  lon: '-79.5072466135'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/observe-1-copy-300x199.jpg
+  iconID: 59
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 2147
+  title: Osgoode Hall Law School, Ignat Kaneff Building (OSG)
+  description: ''
+  footnote: ''
+  lat: '43.7707645527'
+  lon: '-79.5041191578'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/osgoode-20-copy-300x199.jpg
+  iconID: 60
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 71
+  title: Passy Gardens (PASSY)
+  description: ''
+  footnote: ''
+  lat: '43.7693286'
+  lon: '-79.5046154'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/passy-13-copy-300x199.jpg
+  iconID: 61
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 41
+  title: Petrie Science & Engineering (PSE)
+  description: ! 'Building operating hours:; Monday, Tuesday, Thursday and Friday:
+    7:00am to 9:00pm; Wednesday: 7:00am-11:00pm; Saturday and Sunday: clos'
+  footnote: ''
+  lat: '43.7735241255'
+  lon: '-79.5069622993'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/petrie-5-copy-300x199.jpg
+  iconID: 62
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 42
+  title: Physical Resources Building (PRB)
+  description: Building operating hours:; Monday to Friday, 6:00am to 5:30pm; Saturday
+    &amp; Sunday closed
+  footnote: ''
+  lat: '43.7779796913'
+  lon: '-79.4967967272'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/physical-resources-37-copy-300x199.jpg
+  iconID: 63
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 86
+  title: Physical Resources Building South Visitor Lot
+  description: ''
+  footnote: ''
+  lat: '43.7774405324'
+  lon: '-79.4964426756'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 64
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 114
+  title: Price Family Cinema (ACE)
+  description: ''
+  footnote: ''
+  lat: '43.7731650473'
+  lon: '-79.4995647669'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 65
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 43
+  title: Ross Building (R)
+  description: ! 'Accessible Washroom (Women) room: South Tower S118; Accessible Washroom
+    (Men) room: South Tower S119; Single stall Barrier Free Accessi'
+  footnote: ''
+  lat: '43.7728640708'
+  lon: '-79.5041674376'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/ross-4-copy-300x199.jpg
+  iconID: 66
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 115
+  title: Sandra Faire & Ivan Fecan Theatre (ACE)
+  description: ''
+  footnote: ''
+  lat: '43.7730333461'
+  lon: '-79.5002943277'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 67
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 44
+  title: Scott Library (SCL)
+  description: For building operating hours please refer to; Scott Library's Current
+    Library Hours web site; http://www.library.yorku.ca/ccm/Home/Hour
+  footnote: ''
+  lat: '43.7723620526'
+  lon: '-79.5054709911'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/scott-library-1-copy-300x199.jpg
+  iconID: 68
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1577
+  title: Security Services
+  description: ''
+  footnote: ''
+  lat: '43.7729531631'
+  lon: '-79.506855011'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/09/Security-Logo-new.jpg
+  iconID: 69
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 46
+  title: Seneca @ York (SAY)
+  description: ''
+  footnote: ''
+  lat: '43.7717833317'
+  lon: '-79.499296546'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/quinlan-building-9-copy-300x199.jpg
+  iconID: 70
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 101
+  title: Sentinel Road Lot
+  description: ''
+  footnote: ''
+  lat: '43.7695985523'
+  lon: '-79.5012009144'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 71
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 47
+  title: Seymour Schulich Building (SSB)
+  description: Building operating hours:; 7:00am to 1:00am Monday to Friday; 8:00am
+    to 1:00am on Saturday and Sunday; Accessible Washroom (Women) room
+  footnote: ''
+  lat: '43.7733327723'
+  lon: '-79.4989210367'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/schulich-10-copy-300x199.jpg
+  iconID: 72
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 48
+  title: Sherman Health Science Research Centre (SHR)
+  description: ! 'Building operating hours:; Monday - Friday 8:00am to 6:00pm; Saturday
+    and Sunday: closed; Accessible Washroom (Women) rooms: 1196 and 2'
+  footnote: ''
+  lat: '43.775163772'
+  lon: '-79.5118921995'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/sherman-34-copy-300x199.jpg
+  iconID: 73
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 102
+  title: Shoreham Drive Lot
+  description: ''
+  footnote: ''
+  lat: '43.7724767113'
+  lon: '-79.5128202438'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 74
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 49
+  title: Steacie Science & Engineering Library (STL)
+  description: ! 'Building operating hours:; Monday to Friday 7:00am to 1:00am; Saturday
+    &amp; Sunday 8:00am to 11:00pm; Building occupants include:'
+  footnote: ''
+  lat: '43.7737267112'
+  lon: '-79.5060020685'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/steacie-2-copy-300x199.jpg
+  iconID: 75
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 50
+  title: Stedman Lecture Halls (SLH)
+  description: ! '7:00am to 11:00pm Monday to Friday; building locked on weekends
+    24hr; Accessible Washroom (Women) room: 112B; Accessible Washroom (Men)'
+  footnote: ''
+  lat: '43.7743941159'
+  lon: '-79.5031911135'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stedman-lecuture-10-copy-300x199.jpg
+  iconID: 76
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 124
+  title: Stong Barn (SB)
+  description: ''
+  footnote: ''
+  lat: '43.7797470292'
+  lon: '-79.4972956181'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-barn-2-copy-300x199.jpg
+  iconID: 77
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 51
+  title: Stong College (SC)
+  description: ''
+  footnote: ''
+  lat: '43.7727931842'
+  lon: '-79.5082819462'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-college-1-copy-300x199.jpg
+  iconID: 78
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 125
+  title: Stong House (SH)
+  description: ''
+  footnote: ''
+  lat: '43.7804180462'
+  lon: '-79.4974015653'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-house-1-copy-300x199.jpg
+  iconID: 79
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 73
+  title: Stong Residence (SRC)
+  description: ''
+  footnote: ''
+  lat: '43.77244'
+  lon: '-79.5086568'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-res-2-copy-199x300.jpg
+  iconID: 80
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 52
+  title: Student Centre (STC)
+  description: Building operating hours:; Building is open 24hr 7 days per week
+  footnote: ''
+  lat: '43.7739087667'
+  lon: '-79.5029497147'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/student-centre-2-copy-300x199.jpg
+  iconID: 81
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 78
+  title: Student Services Parking Garage (SSP)
+  description: ''
+  footnote: ''
+  lat: '43.7717755844'
+  lon: '-79.4973009825'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/student-service-parking-4-copy-300x199.jpg
+  iconID: 82
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 119
+  title: Tait McKenzie Centre (TM)
+  description:  ; 1 Thompson Road; Building operating hours:; 6:30am to 11:30pm Monday
+    to Friday; 9:30am t0 5:00pm Saturday and Sunday
+  footnote: ''
+  lat: '43.7743984846'
+  lon: '-79.5091983969'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tait-2-copy-300x199.jpg
+  iconID: 83
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 74
+  title: Tatham Hall (TH)
+  description: Building is locked at all times - accessible to tenants only
+  footnote: ''
+  lat: '43.7770991'
+  lon: '-79.5022432'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tatham-hall-2-copy-199x300.jpg
+  iconID: 84
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 54
+  title: Technology Enhanced Learning (TEL)
+  description: ! 'Building operating hours:; Monday - Friday: 6:00am - 11:59pm; Saturday
+    and Sunday: 9:00am-11:59pm; Accessible Washroom (Women) rooms: 1'
+  footnote: ''
+  lat: '43.7713173297'
+  lon: '-79.500836134'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/TEL-200-copy-300x199.jpg
+  iconID: 85
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1521
+  title: Temporary Road Construction for York University
+  description: ''
+  footnote: ''
+  lat: '43.7736194144'
+  lon: '-79.5007556677'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/09/common_construction.jpg
+  iconID: 86
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 2007
+  title: Temporary Welcome Centre
+  description: ''
+  footnote: ''
+  lat: '43.7712734814'
+  lon: '-79.4979397909'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 87
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 118
+  title: Tennis Canada – Rexall Centre (REXL)
+  description: ! 'web site: http://www.tenniscanada.com/rexall/directions.html'
+  footnote: ''
+  lat: '43.7713508379'
+  lon: '-79.5121112245'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tennis-canada-32-copy-300x199.jpg
+  iconID: 88
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 72
+  title: The Pond Road Residence (PON)
+  description: ''
+  footnote: ''
+  lat: '43.7702454723'
+  lon: '-79.5021289587'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/pond_rd_residence2-300x199.jpg
+  iconID: 89
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 83
+  title: Thompson Road Lot
+  description: ''
+  footnote: ''
+  lat: '43.7744134833'
+  lon: '-79.5081210136'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 90
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 120
+  title: Track & Field Centre (TFC)
+  description: Building operating hours Monday to Thursday 9:00am to 9:45pm; Fridays
+    9:00am to 8:45pm, Saturdays 9:00am to 4:45pm
+  footnote: ''
+  lat: '43.7763308258'
+  lon: '-79.5073109865'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/toronto-track-2-copy-300x199.jpg
+  iconID: 91
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 116
+  title: Tribute Communities Recital Hall (ACE)
+  description: ''
+  footnote: ''
+  lat: '43.7729055181'
+  lon: '-79.4994467497'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 92
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 2128
+  title: TTC Route 60
+  description: ''
+  footnote: ''
+  lat: '43.7737021153'
+  lon: '-79.5028602856'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 93
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 55
+  title: Vanier College (VC)
+  description: ''
+  footnote: ''
+  lat: '43.7755123799'
+  lon: '-79.5021986961'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vanier-college-4-copy-300x199.jpg
+  iconID: 94
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 84
+  title: Vanier Temporary Lot
+  description: ''
+  footnote: ''
+  lat: '43.7755367824'
+  lon: '-79.5012867451'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 95
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 56
+  title: Vari Hall (VH)
+  description: ! 'Accessible Washroom (Men) room: 1039; Accessible Washroom (Women)
+    room: 1035'
+  footnote: ''
+  lat: '43.7729927314'
+  lon: '-79.5035341954'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vari-hall-5-copy-300x199.jpg
+  iconID: 96
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 57
+  title: West Office Building (WOB)
+  description: ! 'Building operating hours:; East entrance: Monday-Friday: 8:30am-4:30pm;
+    West entrance: Monday-Friday: 8:30am-8:30pm; Saturday and Sunda'
+  footnote: ''
+  lat: '43.7752644812'
+  lon: '-79.5080566406'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/west-office-3-copy-300x199.jpg
+  iconID: 97
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 85
+  title: West Office Building East Lot
+  description: ''
+  footnote: ''
+  lat: '43.775075845'
+  lon: '-79.5073056221'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 98
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 58
+  title: William Small Centre (WSC)
+  description: ! 'Building operating hours:; Core building is open 24hr per day 7
+    days per week; Building directory:'
+  footnote: ''
+  lat: '43.7729015336'
+  lon: '-79.5072353319'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/campus-walk-66-copy-300x199.jpg
+  iconID: 99
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 59
+  title: Winters College (WC)
+  description: ! 'Accessible Washroom (Women) room: 119A; Single stall Barrier Free
+    Accessible Gender Neutral Washroom room: 092'
+  footnote: ''
+  lat: '43.7761463782'
+  lon: '-79.5024619952'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-college-2-copy-300x199.jpg
+  iconID: 100
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 76
+  title: Winters Residence (WR)
+  description: ''
+  footnote: ''
+  lat: '43.7764483831'
+  lon: '-79.5011731761'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-res-3-copy-300x199.jpg
+  iconID: 101
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 60
+  title: York Lanes (YL)
+  description: ! 'Building operating hours:; Monday- Friday: 7:00am-12:00am; Saturday
+    and Sunday: 9:00am - 5:00pm; Accessible Washroom (Men) room: 236; A'
+  footnote: ''
+  lat: '43.774125683'
+  lon: '-79.5019197464'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-2-copy-300x199.jpg
+  iconID: 102
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 79
+  title: York Lanes Parking Garage (YLP)
+  description: ''
+  footnote: ''
+  lat: '43.7749286541'
+  lon: '-79.5011365414'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-parking-40-copy-300x199.jpg
+  iconID: 103
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 61
+  title: York Research Tower (YRT)
+  description: ! 'Building operating hours:; Monday- Friday: 7:00am to 6:30pm; Saturday
+    and Sunday: closed; Single stall Barrier Free Accessible Gender N'
+  footnote: ''
+  lat: '43.7746884999'
+  lon: '-79.50050354'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/research-tower-30-copy-300x199.jpg
+  iconID: 104
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 121
+  title: York Stadium (STA)
+  description: ''
+  footnote: ''
+  lat: '43.776098424'
+  lon: '-79.5125198364'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-stadium-6-copy-300x199.jpg
+  iconID: 105
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1805
+  title: York Student Fieldhouse (YSF)
+  description: ''
+  footnote: ''
+  lat: '43.7744316887'
+  lon: '-79.510127306'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2011/03/york-student-field-house.jpg
+  iconID: 106
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+poiActions:
+- id: 1
+  poiID: 44
+  label: Web site
+  uri: http://www.library.yorku.ca/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 2
+  poiID: 1577
+  label: Web site
+  uri: http://www.yorku.ca/security/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 3
+  poiID: 2128
+  label: Route schedule
+  uri: http://www3.ttc.ca/Routes/60/Routemap.jsp
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+icons:
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/190-1-copy-300x199.jpg
+  id: 1
+  label: 190 Albany Road
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-320-copy-199x300.jpg
+  id: 2
+  label: 320 Assiniboine Road (AS2)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-340-4-copy-199x300.jpg
+  id: 3
+  label: 340 Assiniboine Road (AS4)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-360-2-copy-199x300.jpg
+  id: 4
+  label: 360 Assiniboine Road (AS6)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assininboine-380-copy-199x300.jpg
+  id: 5
+  label: 380 Assiniboine Road (AS8)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/accolade-east-22-copy-300x199.jpg
+  id: 6
+  label: Accolade East (ACE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/accolade-west-21-copy-300x199.jpg
+  id: 7
+  label: Accolade West (ACW)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 8
+  label: Albany Road Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/aboretum-5-copy-300x199.jpg
+  id: 9
+  label: Arboretum Lane Parking Garage (ARB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/archives-13-copy-300x199.jpg
+  id: 10
+  label: Archives of Ontario (AO)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 11
+  label: Art Gallery of York University AGYU (ACE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/atkinson-200-copy-300x199.jpg
+  id: 12
+  label: Atkinson (ATK)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 13
+  label: Atkinson Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/behavourial-50-copy-300x199.jpg
+  id: 14
+  label: Behavioural Science (BSB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bennett-2-copy-300x199.jpg
+  id: 15
+  label: Bennett Centre for Student Services / Admissions (BCSS)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-8-copy-300x199.jpg
+  id: 16
+  label: Bookstore – York Lanes (YL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/burton-32-copy-300x199.jpg
+  id: 17
+  label: Burton Auditorium (BU)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/calumet-college-4-copy-300x199.jpg
+  id: 18
+  label: Calumet College (CC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/calumet-res-1-copy-300x199.jpg
+  id: 19
+  label: Calumet Residence (CR)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/canlan-18-copy-300x199.jpg
+  id: 20
+  label: Canlan Ice Sports (ICE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/central-square-30-copy-199x300.jpg
+  id: 21
+  label: Central Square (CSQ)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/central-utilities-2-copy-300x199.jpg
+  id: 22
+  label: Central Utilities Building (CUB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/film-and-theatre-32-copy-300x199.jpg
+  id: 23
+  label: Centre for Film & Theatre (CFT)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/chemistry-58-copy-300x199.jpg
+  id: 24
+  label: Chemistry (CB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/computer-methods-6-copy-300x199.jpg
+  id: 25
+  label: Computer Methods Building (CMB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/11/TTCconstruction-notice-Nov2010.jpg
+  id: 26
+  label: ! 'Construction Notice: Advanced Temporary Road Construction for York University
+    Station'
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/curtis-lecture-halls-20-copy-300x199.jpg
+  id: 27
+  label: Curtis Lecture Halls (CLH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/schulich-3-copy-300x199.jpg
+  id: 28
+  label: Executive Learning Centre (ELC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/fargygarsib-3-copy-300x199.jpg
+  id: 29
+  label: Farquharson Life Sciences (FRQ)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/founders-college-6-copy-300x199.jpg
+  id: 30
+  label: Founders College (FC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/founders-res-1-copy-300x199.jpg
+  id: 31
+  label: Founders Residence (FR)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 32
+  label: Founders Road East Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 33
+  label: Founders Road East Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 34
+  label: Founders Road West Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 35
+  label: Gales Gallery (ACW)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/glendon-hall-33-copy-300x199.jpg
+  id: 36
+  label: Glendon Hall (GH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/sherman-co-op-21-copy-300x199.jpg
+  id: 37
+  label: Harry Sherman Crowe Housing Co-op (HCC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/hart-house-1-copy-300x199.jpg
+  id: 38
+  label: Hart House (HH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/health-and-nursing-22-copy-300x199.jpg
+  id: 39
+  label: Health, Nursing & Environmental Studies (HNE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/hoover-house-2-copy-300x199.jpg
+  id: 40
+  label: Hoover House (HOH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/osgoode-20-copy-300x199.jpg
+  id: 41
+  label: Ignat Kaneff Building, Osgoode Hall Law School (OSG)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/ross-25-copy-300x199.jpg
+  id: 42
+  label: Information Kiosk
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/goldfarb-1-copy-300x199.jpg
+  id: 43
+  label: Joan & Martin Goldfarb Centre for Fine Arts (CFA)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 44
+  label: Joseph Green Studio Theatre (CFT)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/kinsmen-43-copy-300x199.jpg
+  id: 45
+  label: Kinsmen (K)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 46
+  label: Kinsmen Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/computer-science-5-copy-300x199.jpg
+  id: 47
+  label: Lassonde Building (LAS)
+  type: 0
+- url: http://www.yorku.ca/yfile/photos/20090526/building.jpg
+  id: 48
+  label: Life Sciences Building (LSB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/honour-court-3-copy-300x199.jpg
+  id: 49
+  label: Lorna R. Marsden Honour Court & Welcome Centre (HC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/lumbers-24-copy-300x199.jpg
+  id: 50
+  label: Lumbers (LUM)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/McLaughlin-3-copy-300x199.jpg
+  id: 51
+  label: McLaughlin College (MC)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 52
+  label: McLean Performance Studio (ACE)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 53
+  label: Nelson Road Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bethune-college-6-copy-300x199.jpg
+  id: 54
+  label: Norman Bethune College (BC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bethune-res-6-copy-300x199.jpg
+  id: 55
+  label: Norman Bethune Residence (BR)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 56
+  label: North West Gate Lot – Subway Construction
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 57
+  label: Northwest Gate Lot – Reserved
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 58
+  label: Northwest Gate Lot – Visitors
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/observe-1-copy-300x199.jpg
+  id: 59
+  label: Observatory, Petrie (PSE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/osgoode-20-copy-300x199.jpg
+  id: 60
+  label: Osgoode Hall Law School, Ignat Kaneff Building (OSG)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/passy-13-copy-300x199.jpg
+  id: 61
+  label: Passy Gardens (PASSY)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/petrie-5-copy-300x199.jpg
+  id: 62
+  label: Petrie Science & Engineering (PSE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/physical-resources-37-copy-300x199.jpg
+  id: 63
+  label: Physical Resources Building (PRB)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 64
+  label: Physical Resources Building South Visitor Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 65
+  label: Price Family Cinema (ACE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/ross-4-copy-300x199.jpg
+  id: 66
+  label: Ross Building (R)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 67
+  label: Sandra Faire & Ivan Fecan Theatre (ACE)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/scott-library-1-copy-300x199.jpg
+  id: 68
+  label: Scott Library (SCL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/09/Security-Logo-new.jpg
+  id: 69
+  label: Security Services
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/quinlan-building-9-copy-300x199.jpg
+  id: 70
+  label: Seneca @ York (SAY)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 71
+  label: Sentinel Road Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/schulich-10-copy-300x199.jpg
+  id: 72
+  label: Seymour Schulich Building (SSB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/sherman-34-copy-300x199.jpg
+  id: 73
+  label: Sherman Health Science Research Centre (SHR)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 74
+  label: Shoreham Drive Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/steacie-2-copy-300x199.jpg
+  id: 75
+  label: Steacie Science & Engineering Library (STL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stedman-lecuture-10-copy-300x199.jpg
+  id: 76
+  label: Stedman Lecture Halls (SLH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-barn-2-copy-300x199.jpg
+  id: 77
+  label: Stong Barn (SB)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-college-1-copy-300x199.jpg
+  id: 78
+  label: Stong College (SC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-house-1-copy-300x199.jpg
+  id: 79
+  label: Stong House (SH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-res-2-copy-199x300.jpg
+  id: 80
+  label: Stong Residence (SRC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/student-centre-2-copy-300x199.jpg
+  id: 81
+  label: Student Centre (STC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/student-service-parking-4-copy-300x199.jpg
+  id: 82
+  label: Student Services Parking Garage (SSP)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tait-2-copy-300x199.jpg
+  id: 83
+  label: Tait McKenzie Centre (TM)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tatham-hall-2-copy-199x300.jpg
+  id: 84
+  label: Tatham Hall (TH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/TEL-200-copy-300x199.jpg
+  id: 85
+  label: Technology Enhanced Learning (TEL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/09/common_construction.jpg
+  id: 86
+  label: Temporary Road Construction for York University
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 87
+  label: Temporary Welcome Centre
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tennis-canada-32-copy-300x199.jpg
+  id: 88
+  label: Tennis Canada – Rexall Centre (REXL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/pond_rd_residence2-300x199.jpg
+  id: 89
+  label: The Pond Road Residence (PON)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 90
+  label: Thompson Road Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/toronto-track-2-copy-300x199.jpg
+  id: 91
+  label: Track & Field Centre (TFC)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 92
+  label: Tribute Communities Recital Hall (ACE)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 93
+  label: TTC Route 60
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vanier-college-4-copy-300x199.jpg
+  id: 94
+  label: Vanier College (VC)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 95
+  label: Vanier Temporary Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vari-hall-5-copy-300x199.jpg
+  id: 96
+  label: Vari Hall (VH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/west-office-3-copy-300x199.jpg
+  id: 97
+  label: West Office Building (WOB)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 98
+  label: West Office Building East Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/campus-walk-66-copy-300x199.jpg
+  id: 99
+  label: William Small Centre (WSC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-college-2-copy-300x199.jpg
+  id: 100
+  label: Winters College (WC)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-res-3-copy-300x199.jpg
+  id: 101
+  label: Winters Residence (WR)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-2-copy-300x199.jpg
+  id: 102
+  label: York Lanes (YL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-parking-40-copy-300x199.jpg
+  id: 103
+  label: York Lanes Parking Garage (YLP)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/research-tower-30-copy-300x199.jpg
+  id: 104
+  label: York Research Tower (YRT)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-stadium-6-copy-300x199.jpg
+  id: 105
+  label: York Stadium (STA)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2011/03/york-student-field-house.jpg
+  id: 106
+  label: York Student Fieldhouse (YSF)
+  type: 0
