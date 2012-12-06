@@ -15,3 +15,15 @@ TTC Route 60:
   action:
     url: http://www3.ttc.ca/Routes/60/Routemap.jsp
     label: Route schedule
+Osgoode Professional Development Centre:
+  action:
+    url: http://www.osgoodepd.ca/
+    label: Web site
+Innovation York:
+  action:
+    url: http://www.innovationyork.ca/
+    label: Web site
+York University - TD Community Engagement Centre:
+  action:
+    url: http://cec.info.yorku.ca/
+    label: Web site

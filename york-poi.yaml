@@ -1619,6 +1619,386 @@ pois:
   showSmallBiwOnClick: 1
   poiType: geo
   layerID: 1
+- id: 1759
+  title: Bookstore
+  description: ! ' Tel.: 416-487-6702;  Web: <a href="http://bookstore.yorku.ca/">York
+    University Bookstore</a>'
+  footnote: ''
+  lat: '43.7273980682'
+  lon: '-79.3779909611'
+  imageURL: http://www.glendon.yorku.ca/images/hubbkstr.jpg
+  iconID: 106
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1762
+  title: Cafeteria
+  description: ''
+  footnote: ''
+  lat: '43.7273360438'
+  lon: '-79.3780124187'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 107
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1709
+  title: Central Services
+  description: ''
+  footnote: ''
+  lat: '43.7277314484'
+  lon: '-79.3775242567'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/central-services-2-copy-300x199.jpg
+  iconID: 108
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1777
+  title: Counselling and Disability Services
+  description: ''
+  footnote: ''
+  lat: '43.7276965599'
+  lon: '-79.3765586615'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 109
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1740
+  title: Glendon – A Lot
+  description: ''
+  footnote: ''
+  lat: '43.7264909544'
+  lon: '-79.3800401688'
+  imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  iconID: 110
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1742
+  title: Glendon – B Lot
+  description: ''
+  footnote: ''
+  lat: '43.7276035237'
+  lon: '-79.3787312508'
+  imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  iconID: 111
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1745
+  title: Glendon – C Lot
+  description: ''
+  footnote: ''
+  lat: '43.7259664503'
+  lon: '-79.3789619207'
+  imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  iconID: 112
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1749
+  title: Glendon – F Lot
+  description: ''
+  footnote: ''
+  lat: '43.7295572539'
+  lon: '-79.3774759769'
+  imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  iconID: 113
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1751
+  title: Glendon – G Lot
+  description: ''
+  footnote: ''
+  lat: '43.7297809209'
+  lon: '-79.3798041344'
+  imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  iconID: 114
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1747
+  title: Glendon – Principal’s Lot
+  description: ''
+  footnote: ''
+  lat: '43.7275558426'
+  lon: '-79.3771862984'
+  imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  iconID: 115
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1727
+  title: Glendon Centre of Excellence
+  description: ''
+  footnote: ''
+  lat: '43.7273437968'
+  lon: '-79.3794715405'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-9-copy-300x199.jpg
+  iconID: 116
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1052
+  title: Greenhouse
+  description: ''
+  footnote: ''
+  lat: '43.7260296391'
+  lon: '-79.3787500262'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/greenhouse-30-copy-300x199.jpg
+  iconID: 117
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1713
+  title: Hilliard Residence (HR)
+  description: ''
+  footnote: ''
+  lat: '43.7263052984'
+  lon: '-79.3780768491'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/hillard-6-copy-300x199.jpg
+  iconID: 118
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1731
+  title: Historic Gate Cottage
+  description: ''
+  footnote: ''
+  lat: '43.7257776587'
+  lon: '-79.3795466423'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/gate-cottage-2-copy-300x199.jpg
+  iconID: 119
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1054
+  title: Leslie Frost Library (FL)
+  description: ! 'Hours of operation: Monday to Thursday 8:30am to 11:00pm; Friday
+    10:00am to 8:00pm; Saturday:  10:00am to 6:00pm; Sunday: 12:00noon to '
+  footnote: ''
+  lat: '43.7272224614'
+  lon: '-79.3761616945'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/frost-library-6-copy-300x199.jpg
+  iconID: 120
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1721
+  title: Proctor Field House (PFH)
+  description: ! 'The Glendon Athletic Club Hours of operation are:; September to
+    June; Monday to Thursday: 6:00am to 10:30pm; Friday: 6:00am to 10:00pm;'
+  footnote: ''
+  lat: '43.7286773079'
+  lon: '-79.3765157461'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/Proctor-field-house-1-copy-300x199.jpg
+  iconID: 121
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1717
+  title: Wood Residence (WR)
+  description: ''
+  footnote: ''
+  lat: '43.7270026613'
+  lon: '-79.3752980232'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/wood-36-copy-300x199.jpg
+  iconID: 122
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1049
+  title: York Hall
+  description: ''
+  footnote: ''
+  lat: '43.7274252039'
+  lon: '-79.3778514862'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-39-copy-300x199.jpg
+  iconID: 123
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1724
+  title: York Hall, A Wing
+  description: Accessible Washroom (Women) available room A104; Barrier Free Gender
+    Neutral Washroom available room A251, 037
+  footnote: ''
+  lat: '43.7271887355'
+  lon: '-79.3794286251'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-A-wing-10-copy-300x199.jpg
+  iconID: 124
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1735
+  title: York Hall, B Wing
+  description: ''
+  footnote: ''
+  lat: '43.7269328833'
+  lon: '-79.37887609'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-b-wind-12-copy-300x199.jpg
+  iconID: 125
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 1737
+  title: York Hall, C Wing (YH)
+  description: ! 'Single stall Barrier Free Accessible Gender Neutral Washroom room:
+    C229'
+  footnote: ''
+  lat: '43.7266072518'
+  lon: '-79.3791657686'
+  imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-c-1-copy-300x199.jpg
+  iconID: 126
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 10001
+  title: Miles S. Nadal Management Centre
+  description: ''
+  footnote: ''
+  lat: '43.647972'
+  lon: '-79.380007'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 127
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 10002
+  title: Innovation York
+  description: ''
+  footnote: ''
+  lat: '43.829183'
+  lon: '-79.32629'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 128
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 10003
+  title: Osgoode Professional Development Centre
+  description: ''
+  footnote: ''
+  lat: '43.656092'
+  lon: '-79.381565'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 129
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
+- id: 10004
+  title: York University - TD Community Engagement Centre
+  description: ''
+  footnote: ''
+  lat: '43.758263'
+  lon: '-79.519885'
+  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
+  iconID: 130
+  biwStyle: classic
+  alt: 0
+  doNotIndex: 0
+  showSmallBiw: 1
+  showSmallBiwOnClick: 1
+  poiType: geo
+  layerID: 1
 poiActions:
 - id: 1
   poiID: 111
@@ -1648,6 +2028,42 @@ poiActions:
   poiID: 1577
   label: Web site
   uri: http://www.yorku.ca/security/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 4
+  poiID: 10002
+  label: Web site
+  uri: http://www.innovationyork.ca/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 5
+  poiID: 10003
+  label: Web site
+  uri: http://www.osgoodepd.ca/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 6
+  poiID: 10004
+  label: Web site
+  uri: http://cec.info.yorku.ca/
   contentType: application/vnd.layar.internal
   method: GET
   activityType: 1
@@ -2077,4 +2493,104 @@ icons:
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2011/03/york-student-field-house.jpg
   id: 105
   label: York Student Fieldhouse (YSF)
+  type: 0
+- url: http://www.glendon.yorku.ca/images/hubbkstr.jpg
+  id: 106
+  label: Bookstore
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 107
+  label: Cafeteria
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/central-services-2-copy-300x199.jpg
+  id: 108
+  label: Central Services
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 109
+  label: Counselling and Disability Services
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 110
+  label: Glendon – A Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 111
+  label: Glendon – B Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 112
+  label: Glendon – C Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 113
+  label: Glendon – F Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 114
+  label: Glendon – G Lot
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 115
+  label: Glendon – Principal’s Lot
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-9-copy-300x199.jpg
+  id: 116
+  label: Glendon Centre of Excellence
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/greenhouse-30-copy-300x199.jpg
+  id: 117
+  label: Greenhouse
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/hillard-6-copy-300x199.jpg
+  id: 118
+  label: Hilliard Residence (HR)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/gate-cottage-2-copy-300x199.jpg
+  id: 119
+  label: Historic Gate Cottage
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/frost-library-6-copy-300x199.jpg
+  id: 120
+  label: Leslie Frost Library (FL)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/Proctor-field-house-1-copy-300x199.jpg
+  id: 121
+  label: Proctor Field House (PFH)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/wood-36-copy-300x199.jpg
+  id: 122
+  label: Wood Residence (WR)
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-39-copy-300x199.jpg
+  id: 123
+  label: York Hall
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-A-wing-10-copy-300x199.jpg
+  id: 124
+  label: York Hall, A Wing
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-b-wind-12-copy-300x199.jpg
+  id: 125
+  label: York Hall, B Wing
+  type: 0
+- url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-c-1-copy-300x199.jpg
+  id: 126
+  label: York Hall, C Wing (YH)
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 127
+  label: Miles S. Nadal Management Centre
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 128
+  label: Innovation York
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 129
+  label: Osgoode Professional Development Centre
+  type: 0
+- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+  id: 130
+  label: York University - TD Community Engagement Centre
   type: 0

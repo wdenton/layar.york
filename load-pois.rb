@@ -203,7 +203,7 @@ end
 
 puts "POIs ..."
 
-unless config['pois'].nil?
+if config['pois']
   config['pois'].each do |poi|
     begin
       puts "  #{poi['title']}"
@@ -234,7 +234,7 @@ end
 
 puts "POI Actions ..."
 
-unless config['poiActions'].nil?
+if config['poiActions']
   config['poiActions'].each do |poiaction|
     puts "  #{poiaction['label']}"
     begin
@@ -264,7 +264,7 @@ end
 
 puts "Icons ..."
 
-unless config['icons'].nil?
+if config['icons']
   config['icons'].each do |icon|
     puts "  #{icon['label']}"
     begin
@@ -282,7 +282,7 @@ end
 
 puts "Objects ..."
 
-unless config['objects'].nil?
+if config['objects']
   config['objects'].each do |o|
     puts "  #{o['url']}"
     begin
@@ -301,7 +301,7 @@ end
 
 puts "Transforms ..."
 
-unless config['transforms'].nil?
+if config['transforms']
   config['transforms'].each do |t|
     puts "  #{t['id']}"
     begin
