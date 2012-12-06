@@ -1416,21 +1416,6 @@ pois:
   showSmallBiwOnClick: 1
   poiType: geo
   layerID: 1
-- id: 2128
-  title: TTC Route 60
-  description: ''
-  footnote: ''
-  lat: '43.7737021153'
-  lon: '-79.5028602856'
-  imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
-  iconID: 93
-  biwStyle: classic
-  alt: 0
-  doNotIndex: 0
-  showSmallBiw: 1
-  showSmallBiwOnClick: 1
-  poiType: geo
-  layerID: 1
 - id: 55
   title: Vanier College (VC)
   description: ''
@@ -1438,7 +1423,7 @@ pois:
   lat: '43.7755123799'
   lon: '-79.5021986961'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vanier-college-4-copy-300x199.jpg
-  iconID: 94
+  iconID: 93
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1453,7 +1438,7 @@ pois:
   lat: '43.7755367824'
   lon: '-79.5012867451'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
-  iconID: 95
+  iconID: 94
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1469,7 +1454,7 @@ pois:
   lat: '43.7729927314'
   lon: '-79.5035341954'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vari-hall-5-copy-300x199.jpg
-  iconID: 96
+  iconID: 95
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1485,7 +1470,7 @@ pois:
   lat: '43.7752644812'
   lon: '-79.5080566406'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/west-office-3-copy-300x199.jpg
-  iconID: 97
+  iconID: 96
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1500,7 +1485,7 @@ pois:
   lat: '43.775075845'
   lon: '-79.5073056221'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
-  iconID: 98
+  iconID: 97
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1516,7 +1501,7 @@ pois:
   lat: '43.7729015336'
   lon: '-79.5072353319'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/campus-walk-66-copy-300x199.jpg
-  iconID: 99
+  iconID: 98
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1532,7 +1517,7 @@ pois:
   lat: '43.7761463782'
   lon: '-79.5024619952'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-college-2-copy-300x199.jpg
-  iconID: 100
+  iconID: 99
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1547,7 +1532,7 @@ pois:
   lat: '43.7764483831'
   lon: '-79.5011731761'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-res-3-copy-300x199.jpg
-  iconID: 101
+  iconID: 100
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1563,7 +1548,7 @@ pois:
   lat: '43.774125683'
   lon: '-79.5019197464'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-2-copy-300x199.jpg
-  iconID: 102
+  iconID: 101
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1578,7 +1563,7 @@ pois:
   lat: '43.7749286541'
   lon: '-79.5011365414'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-parking-40-copy-300x199.jpg
-  iconID: 103
+  iconID: 102
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1594,7 +1579,7 @@ pois:
   lat: '43.7746884999'
   lon: '-79.50050354'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/research-tower-30-copy-300x199.jpg
-  iconID: 104
+  iconID: 103
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1609,7 +1594,7 @@ pois:
   lat: '43.776098424'
   lon: '-79.5125198364'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-stadium-6-copy-300x199.jpg
-  iconID: 105
+  iconID: 104
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1624,7 +1609,7 @@ pois:
   lat: '43.7744316887'
   lon: '-79.510127306'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2011/03/york-student-field-house.jpg
-  iconID: 106
+  iconID: 105
   biwStyle: classic
   alt: 0
   doNotIndex: 0
@@ -1649,18 +1634,6 @@ poiActions:
   poiID: 1577
   label: Web site
   uri: http://www.yorku.ca/security/
-  contentType: application/vnd.layar.internal
-  method: GET
-  activityType: 1
-  params: ''
-  closeBiw: 0
-  showActivity: 1
-  activityMessage: ''
-  autoTrigger: false
-- id: 3
-  poiID: 2128
-  label: Route schedule
-  uri: http://www3.ttc.ca/Routes/60/Routemap.jsp
   contentType: application/vnd.layar.internal
   method: GET
   activityType: 1
@@ -1698,7 +1671,7 @@ icons:
   id: 7
   label: Accolade West (ACW)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 8
   label: Albany Road Lot
   type: 0
@@ -1718,7 +1691,7 @@ icons:
   id: 12
   label: Atkinson (ATK)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 13
   label: Atkinson Lot
   type: 0
@@ -1795,15 +1768,15 @@ icons:
   id: 31
   label: Founders Residence (FR)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 32
   label: Founders Road East Lot
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 33
   label: Founders Road East Lot
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 34
   label: Founders Road West Lot
   type: 0
@@ -1851,7 +1824,7 @@ icons:
   id: 45
   label: Kinsmen (K)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 46
   label: Kinsmen Lot
   type: 0
@@ -1879,7 +1852,7 @@ icons:
   id: 52
   label: McLean Performance Studio (ACE)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 53
   label: Nelson Road Lot
   type: 0
@@ -1895,11 +1868,11 @@ icons:
   id: 56
   label: North West Gate Lot – Subway Construction
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 57
   label: Northwest Gate Lot – Reserved
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 58
   label: Northwest Gate Lot – Visitors
   type: 0
@@ -1923,7 +1896,7 @@ icons:
   id: 63
   label: Physical Resources Building (PRB)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 64
   label: Physical Resources Building South Visitor Lot
   type: 0
@@ -1951,7 +1924,7 @@ icons:
   id: 70
   label: Seneca @ York (SAY)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 71
   label: Sentinel Road Lot
   type: 0
@@ -1963,7 +1936,7 @@ icons:
   id: 73
   label: Sherman Health Science Research Centre (SHR)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 74
   label: Shoreham Drive Lot
   type: 0
@@ -2027,7 +2000,7 @@ icons:
   id: 89
   label: The Pond Road Residence (PON)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   id: 90
   label: Thompson Road Lot
   type: 0
@@ -2039,59 +2012,55 @@ icons:
   id: 92
   label: Tribute Communities Recital Hall (ACE)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
-  id: 93
-  label: TTC Route 60
-  type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vanier-college-4-copy-300x199.jpg
-  id: 94
+  id: 93
   label: Vanier College (VC)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
-  id: 95
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 94
   label: Vanier Temporary Lot
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vari-hall-5-copy-300x199.jpg
-  id: 96
+  id: 95
   label: Vari Hall (VH)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/west-office-3-copy-300x199.jpg
-  id: 97
+  id: 96
   label: West Office Building (WOB)
   type: 0
-- url: http://www.miskatonic.org/ar/york-ciw-110x110.png
-  id: 98
+- url: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
+  id: 97
   label: West Office Building East Lot
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/campus-walk-66-copy-300x199.jpg
-  id: 99
+  id: 98
   label: William Small Centre (WSC)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-college-2-copy-300x199.jpg
-  id: 100
+  id: 99
   label: Winters College (WC)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-res-3-copy-300x199.jpg
-  id: 101
+  id: 100
   label: Winters Residence (WR)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-2-copy-300x199.jpg
-  id: 102
+  id: 101
   label: York Lanes (YL)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-parking-40-copy-300x199.jpg
-  id: 103
+  id: 102
   label: York Lanes Parking Garage (YLP)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/research-tower-30-copy-300x199.jpg
-  id: 104
+  id: 103
   label: York Research Tower (YRT)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-stadium-6-copy-300x199.jpg
-  id: 105
+  id: 104
   label: York Stadium (STA)
   type: 0
 - url: http://central.apps01.yorku.ca/maps/wp-content/uploads/2011/03/york-student-field-house.jpg
-  id: 106
+  id: 105
   label: York Student Fieldhouse (YSF)
   type: 0

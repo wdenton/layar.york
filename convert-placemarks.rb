@@ -43,7 +43,7 @@ layers = [{
 ]
 
 json.each do |placemark|
-  if placemark["category"].any? {|c| c.match(/transit/i)} # Ignore anything in a Transit category (for now)
+  if placemark["category"].any? {|c| c.match(/(transit|ttc)/i)} # Ignore anything in a Transit category (for now)
     next
   end
   poi = Hash.new
@@ -64,17 +64,25 @@ json.each do |placemark|
   poi["lat"] = placemark["latitude"][0].to_s
   poi["lon"] = placemark["longitude"][0].to_s
 
+  # Images (in the BIW bar) and icons (floating in space)
+  # The placemarks file has images for some sites on campus, but not all.  Grab it if it's there and use it.
   grabbedimage = placemark["content"].match(/src=\"(.*jpg)/)
-  # The icon is what floats in space.  Use the same grabbed image if we can.
   icon = Hash.new
   if grabbedimage.nil?
+    # If it isn't there, use the standard York logo for the icon in the bar,
+    # and further, if the location happens to be a parking lot, use a special parking icon.
     poi["imageURL"] = "http://www.yorku.ca/web/css/yeb11yorklogo.gif" # Standard York logo
-    icon["url"] = "http://www.miskatonic.org/ar/york-ciw-110x110.png" # Squared, can be improved
+    if placemark["category"].any? {|c| c.match(/parking/i)} # Ignore anything in a Transit category (for now)
+      icon["url"] = "http://www.miskatonic.org/ar/york-ciw-parking-110px.png" # "Parking" in a white circle
+    else
+      icon["url"] = "http://www.miskatonic.org/ar/york-ciw-110x110.png" # York social media logo (square)
+      STDERR.puts "  default icon"
+    end
   else
     poi["imageURL"] = grabbedimage[1]
     icon["url"] = poi["imageURL"]
   end
-  STDERR.puts "  icon: #{icon["url"]}"
+  # STDERR.puts "  icon: #{icon["url"]}"
   icon["id"] = icons.length + 1
   poi["iconID"] = icon["id"]
   icon["label"] = poi["title"]
