@@ -1,0 +1,17 @@
+Scott Library (SCL):
+  action:
+    url: http://www.library.yorku.ca/
+    label: Web site
+Gales Gallery (ACW):
+  description: 'The Gales Gallery of the Department of Visual Arts presents exhibitions weekly during the academic year, showcasing the work of graduate and undergraduate student artists in the Faculty of Fine Arts, York University.'
+  action:
+    url: http://visa.finearts.yorku.ca/facilities/gales-gallery/
+    label: Web site
+Security Services:
+  action:
+    url: http://www.yorku.ca/security/
+    label: Web site
+TTC Route 60:
+  action:
+    url: http://www3.ttc.ca/Routes/60/Routemap.jsp
+    label: Route schedule

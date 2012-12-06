@@ -6,7 +6,7 @@ require 'cgi'
 require 'rubygems'
 require 'json'
 
-url_file = "york-urls.yaml"
+supplemental_file = "york-supplemental.yaml"
 
 # TODO: Load this in live (or accept as option if local?)
 # http://www.yorku.ca/web/maps/kml/all_placemarks.js
@@ -21,7 +21,7 @@ url_file = "york-urls.yaml"
 json = JSON.parse(File.open("all_placemarks.js").read)
 
 begin
-  urls = YAML.load_file(url_file)
+  supplemental = YAML.load_file(supplemental_file)
 rescue Exception => e
   puts e
   exit 1
@@ -50,6 +50,10 @@ json.each do |placemark|
   poi["id"] = placemark["ID"]
   poi["title"] = CGI.unescapeHTML(placemark["title"])
   STDERR.puts poi["title"]
+
+  # If there's any supplemental information about this site, get ready to use it.
+  supp = supplemental.fetch(poi["title"], nil)
+
   #  puts poi["title"]
   # The content field is a chunk of HTML. We want to just use what's inside the <address> tags, but not the first such chunk because
   # it's the name of the place, and then we want to trim the length of the text to 140 characters.  A bit ugly.
@@ -60,6 +64,12 @@ json.each do |placemark|
     # Split, ignore the first chunk, join all the rest, and trim
     poi["description"] = content[1].split("</address><address>").slice(1..-1).join("; ").slice(0, 135)
   end
+
+  # If we defined a description in the supplemental file, use it.
+  if supp and supp["description"]
+    poi["description"] = supp["description"]
+  end
+
   poi["footnote"] = ""
   poi["lat"] = placemark["latitude"][0].to_s
   poi["lon"] = placemark["longitude"][0].to_s
@@ -71,11 +81,12 @@ json.each do |placemark|
   if grabbedimage.nil?
     # If it isn't there, use the standard York logo for the icon in the bar,
     # and further, if the location happens to be a parking lot, use a special parking icon.
-    poi["imageURL"] = "http://www.yorku.ca/web/css/yeb11yorklogo.gif" # Standard York logo
-    if placemark["category"].any? {|c| c.match(/parking/i)} # Ignore anything in a Transit category (for now)
+    if placemark["category"].any? {|c| c.match(/parking/i)}
       icon["url"] = "http://www.miskatonic.org/ar/york-ciw-parking-110px.png" # "Parking" in a white circle
+      poi["imageURL"] = "http://www.miskatonic.org/ar/york-ciw-parking-110px.png" # Use it in BIW bar, too (it will be scaled down)
     else
       icon["url"] = "http://www.miskatonic.org/ar/york-ciw-110x110.png" # York social media logo (square)
+      poi["imageURL"] = "http://www.yorku.ca/web/css/yeb11yorklogo.gif" # Standard York logo
       STDERR.puts "  default icon"
     end
   else
@@ -98,13 +109,12 @@ json.each do |placemark|
   poi["layerID"] = 1
 
   action = Hash.new
-  url = urls.fetch(poi["title"], nil)
-  if ! url.nil? # There is a URL for this location
-    STDERR.puts "  URL: #{url["url"]}"
+  if supp and supp["action"] # There is an action for this location
+    STDERR.puts "  URL: #{supp["action"]["url"]}"
     action["id"] = actions.length + 1;
     action["poiID"] = poi["id"]
-    action["label"] = url["label"]
-    action["uri"] = url["url"]
+    action["label"] = supp["action"]["label"]
+    action["uri"] = supp["action"]["url"]
     action["contentType"] = "application/vnd.layar.internal"
     action["method"] = "GET"
     action["activityType"] = 1
