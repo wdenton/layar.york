@@ -11,7 +11,7 @@ poi_file = "york-poi.yaml"
 
 # Read in the database configuration details from the PHP include file
 # that will be used to help serve up the POIs.
-# This is a bit embarrassing.
+# This feels a bit dirty.
 db = Hash.new
 File.open("york-config.inc.php", "r").each_line do |line|
   results = line.match(/define\('(\w*)', '(.*)'\);/)
@@ -180,7 +180,7 @@ DataMapper.finalize
 
 DataMapper::Model.raise_on_save_failure = true
 
- begin
+begin
   config = YAML.load_file(poi_file)
 rescue Exception => e
   puts e

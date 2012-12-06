@@ -30,7 +30,7 @@ placemark_files = ["all_placemarks.js", "glendon_placemarks.js", "other_location
 begin
   supplemental = YAML.load_file(supplemental_file)
 rescue Exception => e
-  puts e
+  STDERR.puts e
   exit 1
 end
 
@@ -51,7 +51,12 @@ layers = [{
 
 placemark_files.each do |placemark_file|
 
-  json = JSON.parse(File.open(placemark_file).read)
+  begin
+    json = JSON.parse(File.open(placemark_file).read)
+  rescue Exception => e
+    STDERR.puts e
+    exit 1
+  end
 
   json.each do |placemark|
     if placemark["category"].any? {|c| c.match(/(transit|ttc)/i)} # Ignore anything in a Transit category (for now)
@@ -111,11 +116,11 @@ placemark_files.each do |placemark_file|
     icon["type"] = 0
     icons << icon
 
-    poi["biwStyle"] = "classic"
+    poi["biwStyle"] = "collapsed" # "classic" or "collapsed"
     poi["alt"] = 0
     poi["doNotIndex"] = 0
     poi["showSmallBiw"] = 1
-    poi["showSmallBiwOnClick"] = 1
+    poi["showBiwOnClick"] = 1
     poi["poiType"] = "geo"
     poi["layerID"] = 1
 

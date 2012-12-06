@@ -16,11 +16,11 @@ pois:
   lon: '-79.4994950294'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/190-1-copy-300x199.jpg
   iconID: 1
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 62
@@ -31,11 +31,11 @@ pois:
   lon: '-79.5025742054'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-320-copy-199x300.jpg
   iconID: 2
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 63
@@ -46,11 +46,11 @@ pois:
   lon: '-79.5034732'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-340-4-copy-199x300.jpg
   iconID: 3
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 64
@@ -61,11 +61,11 @@ pois:
   lon: '-79.5041761'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assiniboine-360-2-copy-199x300.jpg
   iconID: 4
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 65
@@ -76,11 +76,11 @@ pois:
   lon: '-79.504891634'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/assininboine-380-copy-199x300.jpg
   iconID: 5
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 12
@@ -92,11 +92,11 @@ pois:
   lon: '-79.4997954369'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/accolade-east-22-copy-300x199.jpg
   iconID: 6
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 13
@@ -108,11 +108,11 @@ pois:
   lon: '-79.5024561882'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/accolade-west-21-copy-300x199.jpg
   iconID: 7
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 88
@@ -123,11 +123,11 @@ pois:
   lon: '-79.5009219646'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 8
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 77
@@ -138,11 +138,11 @@ pois:
   lon: '-79.507085681'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/aboretum-5-copy-300x199.jpg
   iconID: 9
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 14
@@ -154,11 +154,11 @@ pois:
   lon: '-79.5005893707'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/archives-13-copy-300x199.jpg
   iconID: 10
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 109
@@ -169,11 +169,11 @@ pois:
   lon: '-79.4998705387'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 11
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 15
@@ -185,11 +185,11 @@ pois:
   lon: '-79.5025307373'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/atkinson-200-copy-300x199.jpg
   iconID: 12
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 89
@@ -200,11 +200,11 @@ pois:
   lon: '-79.5029588'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 13
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 16
@@ -216,11 +216,11 @@ pois:
   lon: '-79.5037865639'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/behavourial-50-copy-300x199.jpg
   iconID: 14
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 17
@@ -232,11 +232,11 @@ pois:
   lon: '-79.4985070604'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bennett-2-copy-300x199.jpg
   iconID: 15
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 18
@@ -247,11 +247,11 @@ pois:
   lon: '-79.500798583'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-8-copy-300x199.jpg
   iconID: 16
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 110
@@ -262,11 +262,11 @@ pois:
   lon: '-79.5018525'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/burton-32-copy-300x199.jpg
   iconID: 17
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 19
@@ -277,11 +277,11 @@ pois:
   lon: '-79.5097410679'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/calumet-college-4-copy-300x199.jpg
   iconID: 18
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 67
@@ -292,11 +292,11 @@ pois:
   lon: '-79.5094474'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/calumet-res-1-copy-300x199.jpg
   iconID: 19
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 117
@@ -307,11 +307,11 @@ pois:
   lon: '-79.5138716698'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/canlan-18-copy-300x199.jpg
   iconID: 20
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 20
@@ -322,11 +322,11 @@ pois:
   lon: '-79.5048533743'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/central-square-30-copy-199x300.jpg
   iconID: 21
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 11
@@ -337,11 +337,11 @@ pois:
   lon: '-79.4987225533'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/central-utilities-2-copy-300x199.jpg
   iconID: 22
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 22
@@ -353,11 +353,11 @@ pois:
   lon: '-79.5011097193'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/film-and-theatre-32-copy-300x199.jpg
   iconID: 23
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 23
@@ -369,11 +369,11 @@ pois:
   lon: '-79.5077884197'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/chemistry-58-copy-300x199.jpg
   iconID: 24
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 24
@@ -384,11 +384,11 @@ pois:
   lon: '-79.4954395294'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/computer-methods-6-copy-300x199.jpg
   iconID: 25
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1647
@@ -400,11 +400,11 @@ pois:
   lon: '-79.4969415665'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/11/TTCconstruction-notice-Nov2010.jpg
   iconID: 26
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 26
@@ -415,11 +415,11 @@ pois:
   lon: '-79.5049989223'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/curtis-lecture-halls-20-copy-300x199.jpg
   iconID: 27
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 28
@@ -431,11 +431,11 @@ pois:
   lon: '-79.4982343912'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/schulich-3-copy-300x199.jpg
   iconID: 28
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 29
@@ -446,11 +446,11 @@ pois:
   lon: '-79.5043605566'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/fargygarsib-3-copy-300x199.jpg
   iconID: 29
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 30
@@ -461,11 +461,11 @@ pois:
   lon: '-79.5033144951'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/founders-college-6-copy-300x199.jpg
   iconID: 30
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 68
@@ -476,11 +476,11 @@ pois:
   lon: '-79.5040055888'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/founders-res-1-copy-300x199.jpg
   iconID: 31
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 91
@@ -491,11 +491,11 @@ pois:
   lon: '-79.5030784607'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 32
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 81
@@ -506,11 +506,11 @@ pois:
   lon: '-79.5030784607'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 33
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 92
@@ -521,11 +521,11 @@ pois:
   lon: '-79.504532218'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 34
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 111
@@ -538,11 +538,11 @@ pois:
   lon: '-79.5025634766'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 35
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1056
@@ -553,11 +553,11 @@ pois:
   lon: '-79.3765962124'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/glendon-hall-33-copy-300x199.jpg
   iconID: 36
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 69
@@ -568,11 +568,11 @@ pois:
   lon: '-79.4993438'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/sherman-co-op-21-copy-300x199.jpg
   iconID: 37
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 122
@@ -583,11 +583,11 @@ pois:
   lon: '-79.5050954819'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/hart-house-1-copy-300x199.jpg
   iconID: 38
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 31
@@ -599,11 +599,11 @@ pois:
   lon: '-79.5045858622'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/health-and-nursing-22-copy-300x199.jpg
   iconID: 39
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 123
@@ -614,11 +614,11 @@ pois:
   lon: '-79.5092582703'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/hoover-house-2-copy-300x199.jpg
   iconID: 40
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 40
@@ -629,11 +629,11 @@ pois:
   lon: '-79.5041191578'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/osgoode-20-copy-300x199.jpg
   iconID: 41
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1583
@@ -644,11 +644,11 @@ pois:
   lon: '-79.5042157173'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/ross-25-copy-300x199.jpg
   iconID: 42
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 32
@@ -659,11 +659,11 @@ pois:
   lon: '-79.5021289587'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/goldfarb-1-copy-300x199.jpg
   iconID: 43
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 112
@@ -674,11 +674,11 @@ pois:
   lon: '-79.5010882616'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 44
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 33
@@ -690,11 +690,11 @@ pois:
   lon: '-79.4954448938'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/kinsmen-43-copy-300x199.jpg
   iconID: 45
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 87
@@ -705,11 +705,11 @@ pois:
   lon: '-79.4959652424'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 46
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 25
@@ -721,11 +721,11 @@ pois:
   lon: '-79.5050767064'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/computer-science-5-copy-300x199.jpg
   iconID: 47
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 35
@@ -737,11 +737,11 @@ pois:
   lon: '-79.5076704025'
   imageURL: http://www.yorku.ca/yfile/photos/20090526/building.jpg
   iconID: 48
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 34
@@ -753,11 +753,11 @@ pois:
   lon: '-79.4985884428'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/honour-court-3-copy-300x199.jpg
   iconID: 49
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 36
@@ -769,11 +769,11 @@ pois:
   lon: '-79.5049291849'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/lumbers-24-copy-300x199.jpg
   iconID: 50
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 37
@@ -784,11 +784,11 @@ pois:
   lon: '-79.5027190447'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/McLaughlin-3-copy-300x199.jpg
   iconID: 51
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 113
@@ -799,11 +799,11 @@ pois:
   lon: '-79.4994145632'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 52
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 95
@@ -814,11 +814,11 @@ pois:
   lon: '-79.5056319237'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 53
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 38
@@ -829,11 +829,11 @@ pois:
   lon: '-79.5089685917'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bethune-college-6-copy-300x199.jpg
   iconID: 54
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 70
@@ -844,11 +844,11 @@ pois:
   lon: '-79.5084811'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/bethune-res-6-copy-300x199.jpg
   iconID: 55
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1555
@@ -859,11 +859,11 @@ pois:
   lon: '-79.5087218285'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 56
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 96
@@ -874,11 +874,11 @@ pois:
   lon: '-79.509923'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 57
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 82
@@ -889,11 +889,11 @@ pois:
   lon: '-79.5101380348'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 58
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 39
@@ -905,11 +905,11 @@ pois:
   lon: '-79.5072466135'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/observe-1-copy-300x199.jpg
   iconID: 59
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 2147
@@ -920,11 +920,11 @@ pois:
   lon: '-79.5041191578'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/osgoode-20-copy-300x199.jpg
   iconID: 60
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 71
@@ -935,11 +935,11 @@ pois:
   lon: '-79.5046154'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/passy-13-copy-300x199.jpg
   iconID: 61
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 41
@@ -951,11 +951,11 @@ pois:
   lon: '-79.5069622993'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/petrie-5-copy-300x199.jpg
   iconID: 62
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 42
@@ -967,11 +967,11 @@ pois:
   lon: '-79.4967967272'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/physical-resources-37-copy-300x199.jpg
   iconID: 63
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 86
@@ -982,11 +982,11 @@ pois:
   lon: '-79.4964426756'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 64
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 114
@@ -997,11 +997,11 @@ pois:
   lon: '-79.4995647669'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 65
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 43
@@ -1013,11 +1013,11 @@ pois:
   lon: '-79.5041674376'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/ross-4-copy-300x199.jpg
   iconID: 66
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 115
@@ -1028,27 +1028,27 @@ pois:
   lon: '-79.5002943277'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 67
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 44
   title: Scott Library (SCL)
-  description: For building operating hours please refer to; Scott Library's Current
-    Library Hours web site; http://www.library.yorku.ca/ccm/Home/Hour
+  description: York's largest library, focusing on arts, humanities and social sciences.
+    Research help is available. For hours, see web site.
   footnote: ''
   lat: '43.7723620526'
   lon: '-79.5054709911'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/scott-library-1-copy-300x199.jpg
   iconID: 68
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1577
@@ -1059,11 +1059,11 @@ pois:
   lon: '-79.506855011'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/09/Security-Logo-new.jpg
   iconID: 69
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 46
@@ -1074,11 +1074,11 @@ pois:
   lon: '-79.499296546'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/quinlan-building-9-copy-300x199.jpg
   iconID: 70
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 101
@@ -1089,11 +1089,11 @@ pois:
   lon: '-79.5012009144'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 71
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 47
@@ -1105,11 +1105,11 @@ pois:
   lon: '-79.4989210367'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/schulich-10-copy-300x199.jpg
   iconID: 72
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 48
@@ -1121,11 +1121,11 @@ pois:
   lon: '-79.5118921995'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/sherman-34-copy-300x199.jpg
   iconID: 73
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 102
@@ -1136,11 +1136,11 @@ pois:
   lon: '-79.5128202438'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 74
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 49
@@ -1152,11 +1152,11 @@ pois:
   lon: '-79.5060020685'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/steacie-2-copy-300x199.jpg
   iconID: 75
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 50
@@ -1168,11 +1168,11 @@ pois:
   lon: '-79.5031911135'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stedman-lecuture-10-copy-300x199.jpg
   iconID: 76
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 124
@@ -1183,11 +1183,11 @@ pois:
   lon: '-79.4972956181'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-barn-2-copy-300x199.jpg
   iconID: 77
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 51
@@ -1198,11 +1198,11 @@ pois:
   lon: '-79.5082819462'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-college-1-copy-300x199.jpg
   iconID: 78
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 125
@@ -1213,11 +1213,11 @@ pois:
   lon: '-79.4974015653'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-house-1-copy-300x199.jpg
   iconID: 79
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 73
@@ -1228,11 +1228,11 @@ pois:
   lon: '-79.5086568'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/stong-res-2-copy-199x300.jpg
   iconID: 80
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 52
@@ -1243,11 +1243,11 @@ pois:
   lon: '-79.5029497147'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/student-centre-2-copy-300x199.jpg
   iconID: 81
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 78
@@ -1258,11 +1258,11 @@ pois:
   lon: '-79.4973009825'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/student-service-parking-4-copy-300x199.jpg
   iconID: 82
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 119
@@ -1274,11 +1274,11 @@ pois:
   lon: '-79.5091983969'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tait-2-copy-300x199.jpg
   iconID: 83
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 74
@@ -1289,11 +1289,11 @@ pois:
   lon: '-79.5022432'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tatham-hall-2-copy-199x300.jpg
   iconID: 84
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 54
@@ -1305,11 +1305,11 @@ pois:
   lon: '-79.500836134'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/TEL-200-copy-300x199.jpg
   iconID: 85
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1521
@@ -1320,11 +1320,11 @@ pois:
   lon: '-79.5007556677'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/09/common_construction.jpg
   iconID: 86
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 2007
@@ -1335,11 +1335,11 @@ pois:
   lon: '-79.4979397909'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 87
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 118
@@ -1350,11 +1350,11 @@ pois:
   lon: '-79.5121112245'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/tennis-canada-32-copy-300x199.jpg
   iconID: 88
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 72
@@ -1365,11 +1365,11 @@ pois:
   lon: '-79.5021289587'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/pond_rd_residence2-300x199.jpg
   iconID: 89
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 83
@@ -1380,11 +1380,11 @@ pois:
   lon: '-79.5081210136'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 90
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 120
@@ -1396,11 +1396,11 @@ pois:
   lon: '-79.5073109865'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/toronto-track-2-copy-300x199.jpg
   iconID: 91
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 116
@@ -1411,11 +1411,11 @@ pois:
   lon: '-79.4994467497'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 92
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 55
@@ -1426,11 +1426,11 @@ pois:
   lon: '-79.5021986961'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vanier-college-4-copy-300x199.jpg
   iconID: 93
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 84
@@ -1441,11 +1441,11 @@ pois:
   lon: '-79.5012867451'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 94
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 56
@@ -1457,11 +1457,11 @@ pois:
   lon: '-79.5035341954'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/vari-hall-5-copy-300x199.jpg
   iconID: 95
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 57
@@ -1473,11 +1473,11 @@ pois:
   lon: '-79.5080566406'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/west-office-3-copy-300x199.jpg
   iconID: 96
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 85
@@ -1488,11 +1488,11 @@ pois:
   lon: '-79.5073056221'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 97
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 58
@@ -1504,11 +1504,11 @@ pois:
   lon: '-79.5072353319'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/campus-walk-66-copy-300x199.jpg
   iconID: 98
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 59
@@ -1520,11 +1520,11 @@ pois:
   lon: '-79.5024619952'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-college-2-copy-300x199.jpg
   iconID: 99
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 76
@@ -1535,11 +1535,11 @@ pois:
   lon: '-79.5011731761'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/winters-res-3-copy-300x199.jpg
   iconID: 100
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 60
@@ -1551,11 +1551,11 @@ pois:
   lon: '-79.5019197464'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-2-copy-300x199.jpg
   iconID: 101
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 79
@@ -1566,11 +1566,11 @@ pois:
   lon: '-79.5011365414'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-lanes-parking-40-copy-300x199.jpg
   iconID: 102
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 61
@@ -1582,11 +1582,11 @@ pois:
   lon: '-79.50050354'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/research-tower-30-copy-300x199.jpg
   iconID: 103
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 121
@@ -1597,11 +1597,11 @@ pois:
   lon: '-79.5125198364'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/06/york-stadium-6-copy-300x199.jpg
   iconID: 104
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1805
@@ -1612,11 +1612,11 @@ pois:
   lon: '-79.510127306'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2011/03/york-student-field-house.jpg
   iconID: 105
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1759
@@ -1628,11 +1628,11 @@ pois:
   lon: '-79.3779909611'
   imageURL: http://www.glendon.yorku.ca/images/hubbkstr.jpg
   iconID: 106
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1762
@@ -1643,11 +1643,11 @@ pois:
   lon: '-79.3780124187'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 107
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1709
@@ -1658,11 +1658,11 @@ pois:
   lon: '-79.3775242567'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/central-services-2-copy-300x199.jpg
   iconID: 108
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1777
@@ -1673,11 +1673,11 @@ pois:
   lon: '-79.3765586615'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 109
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1740
@@ -1688,11 +1688,11 @@ pois:
   lon: '-79.3800401688'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 110
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1742
@@ -1703,11 +1703,11 @@ pois:
   lon: '-79.3787312508'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 111
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1745
@@ -1718,11 +1718,11 @@ pois:
   lon: '-79.3789619207'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 112
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1749
@@ -1733,11 +1733,11 @@ pois:
   lon: '-79.3774759769'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 113
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1751
@@ -1748,11 +1748,11 @@ pois:
   lon: '-79.3798041344'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 114
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1747
@@ -1763,11 +1763,11 @@ pois:
   lon: '-79.3771862984'
   imageURL: http://www.miskatonic.org/ar/york-ciw-parking-110px.png
   iconID: 115
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1727
@@ -1778,11 +1778,11 @@ pois:
   lon: '-79.3794715405'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-9-copy-300x199.jpg
   iconID: 116
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1052
@@ -1793,11 +1793,11 @@ pois:
   lon: '-79.3787500262'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/greenhouse-30-copy-300x199.jpg
   iconID: 117
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1713
@@ -1808,11 +1808,11 @@ pois:
   lon: '-79.3780768491'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/hillard-6-copy-300x199.jpg
   iconID: 118
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1731
@@ -1823,11 +1823,11 @@ pois:
   lon: '-79.3795466423'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/gate-cottage-2-copy-300x199.jpg
   iconID: 119
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1054
@@ -1839,11 +1839,11 @@ pois:
   lon: '-79.3761616945'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/frost-library-6-copy-300x199.jpg
   iconID: 120
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1721
@@ -1855,11 +1855,11 @@ pois:
   lon: '-79.3765157461'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/Proctor-field-house-1-copy-300x199.jpg
   iconID: 121
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1717
@@ -1870,11 +1870,11 @@ pois:
   lon: '-79.3752980232'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/wood-36-copy-300x199.jpg
   iconID: 122
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1049
@@ -1885,11 +1885,11 @@ pois:
   lon: '-79.3778514862'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-39-copy-300x199.jpg
   iconID: 123
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1724
@@ -1901,11 +1901,11 @@ pois:
   lon: '-79.3794286251'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-A-wing-10-copy-300x199.jpg
   iconID: 124
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1735
@@ -1916,11 +1916,11 @@ pois:
   lon: '-79.37887609'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-b-wind-12-copy-300x199.jpg
   iconID: 125
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 1737
@@ -1932,11 +1932,11 @@ pois:
   lon: '-79.3791657686'
   imageURL: http://central.apps01.yorku.ca/maps/wp-content/uploads/2010/07/york-hall-c-1-copy-300x199.jpg
   iconID: 126
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 10001
@@ -1947,11 +1947,11 @@ pois:
   lon: '-79.380007'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 127
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 10002
@@ -1962,11 +1962,11 @@ pois:
   lon: '-79.32629'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 128
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 10003
@@ -1977,11 +1977,11 @@ pois:
   lon: '-79.381565'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 129
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 - id: 10004
@@ -1992,15 +1992,39 @@ pois:
   lon: '-79.519885'
   imageURL: http://www.yorku.ca/web/css/yeb11yorklogo.gif
   iconID: 130
-  biwStyle: classic
+  biwStyle: collapsed
   alt: 0
   doNotIndex: 0
   showSmallBiw: 1
-  showSmallBiwOnClick: 1
+  showBiwOnClick: 1
   poiType: geo
   layerID: 1
 poiActions:
 - id: 1
+  poiID: 67
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/undergrad/buildings/calumet/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 2
+  poiID: 68
+  label: Web site
+  uri: http://www.yorku.ca/founders/residence.html
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 3
   poiID: 111
   label: Web site
   uri: http://visa.finearts.yorku.ca/facilities/gales-gallery/
@@ -2012,7 +2036,31 @@ poiActions:
   showActivity: 1
   activityMessage: ''
   autoTrigger: false
-- id: 2
+- id: 4
+  poiID: 70
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/undergrad/buildings/bethune/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 5
+  poiID: 71
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/yorkapts/buildings/passy/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 6
   poiID: 44
   label: Web site
   uri: http://www.library.yorku.ca/
@@ -2024,7 +2072,7 @@ poiActions:
   showActivity: 1
   activityMessage: ''
   autoTrigger: false
-- id: 3
+- id: 7
   poiID: 1577
   label: Web site
   uri: http://www.yorku.ca/security/
@@ -2036,7 +2084,91 @@ poiActions:
   showActivity: 1
   activityMessage: ''
   autoTrigger: false
-- id: 4
+- id: 8
+  poiID: 46
+  label: Web site
+  uri: http://www.senecac.on.ca/campuses/yorklocation.html
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 9
+  poiID: 47
+  label: Schulich School of Business web site
+  uri: http://www.schulich.yorku.ca/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 10
+  poiID: 73
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/undergrad/buildings/stong/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 11
+  poiID: 74
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/undergrad/buildings/tatham/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 12
+  poiID: 72
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/undergrad/buildings/pond/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 13
+  poiID: 76
+  label: Web site
+  uri: http://studenthousing.info.yorku.ca/undergrad/buildings/winters/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 14
+  poiID: 1759
+  label: Web site
+  uri: http://bookstore.yorku.ca/
+  contentType: application/vnd.layar.internal
+  method: GET
+  activityType: 1
+  params: ''
+  closeBiw: 0
+  showActivity: 1
+  activityMessage: ''
+  autoTrigger: false
+- id: 15
   poiID: 10002
   label: Web site
   uri: http://www.innovationyork.ca/
@@ -2048,7 +2180,7 @@ poiActions:
   showActivity: 1
   activityMessage: ''
   autoTrigger: false
-- id: 5
+- id: 16
   poiID: 10003
   label: Web site
   uri: http://www.osgoodepd.ca/
@@ -2060,7 +2192,7 @@ poiActions:
   showActivity: 1
   activityMessage: ''
   autoTrigger: false
-- id: 6
+- id: 17
   poiID: 10004
   label: Web site
   uri: http://cec.info.yorku.ca/
