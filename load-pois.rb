@@ -7,11 +7,20 @@ require 'json'
 require 'data_mapper'
 require 'dm-validations'
 
-# poi_file = "claxton-simple.yaml"
-poi_file = "york.yaml"
+poi_file = "york-poi.yaml"
 
-# DataMapper.setup(:default, 'sqlite:///tmp/claxton.db')
-DataMapper.setup(:default, 'mysql://wdenton_8:9bmwpHqG@db146d.pair.com/wdenton_yorklayar')
+# Read in the database configuration details from the PHP include file
+# that will be used to help serve up the POIs.
+# This is a bit embarrassing.
+db = Hash.new
+File.open("york-config.inc.php", "r").each_line do |line|
+  results = line.match(/define\('(\w*)', '(.*)'\);/)
+  if results
+    db[results[1]] = results[2] # db["DBUSER"] = "username"
+  end
+end
+
+DataMapper.setup(:default, "mysql://" + db["DBUSER"] + ":" + db["DBPASS"] + "@" + db["DBHOST"] + "/" + db["DBDATA"])
 
 DataMapper::Property::String.length(255)
 
