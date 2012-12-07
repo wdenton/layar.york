@@ -1,13 +1,11 @@
 #!/usr/bin/env ruby
 
-require 'yaml'
+require 'cgi'
 
 require 'rubygems'
 require 'json'
 require 'data_mapper'
 require 'dm-validations'
-
-poi_file = "york-poi.yaml"
 
 # Read in the database configuration details from the PHP include file
 # that will be used to help serve up the POIs.
@@ -23,6 +21,7 @@ end
 DataMapper.setup(:default, "mysql://" + db["DBUSER"] + ":" + db["DBPASS"] + "@" + db["DBHOST"] + "/" + db["DBDATA"])
 
 DataMapper::Property::String.length(255)
+
 
 class Layer
   include DataMapper::Resource
@@ -162,164 +161,118 @@ class Transform
   property :scale,               Decimal, :precision => 12, :scale => 2, :default => 1
 end
 
-# http://rubydoc.info/github/datamapper/dm-core/master/DataMapper/Property
-# :precision: number of significant digits
-# :scale: number of significant digits to the right of the decimal point
-
-# We need to leave all column names alone in the database, to work with a legacy system,
-# the one Layer gives in their demo
-#
-# The DataMapper docs are bad about how to do this. Figured it out from
-# http://www.engineyard.com/blog/2011/using-datamapper-and-rails-with-legacy-schemas/
 DataMapper.repository(:default).adapter.field_naming_convention = lambda do |property|
   "#{property.name}"
 end
 
-DataMapper.auto_migrate!
-DataMapper.finalize
+# URL being called looks like this:
+#
+# http://www.miskatonic.org/ar/york.php?
+# lang=en
+# & countryCode=CA
+# & userId=6f85d06929d160a7c8a3cc1ab4b54b87db99f74b
+# & lon=-79.503089
+# & version=6.0
+# & radius=1500
+# & lat=43.7731464
+# & layerName=yorkuniversitytoronto
+# & accuracy=100
 
-DataMapper::Model.raise_on_save_failure = true
+# Mandatory params passed in:
+# userId
+# layerName
+# version
+# lat
+# lon
+# countryCode
+# lang
+# action
+#
+# Optional but important (what if no radius is specified?)
+# radius
 
-begin
-  config = YAML.load_file(poi_file)
-rescue Exception => e
-  puts e
-  exit 1
-end
+cgi = CGI.new
+params = cgi.params
 
-puts "Layers ..."
+layer = Layer.first(:layer => params["layerName"])
 
-config['layers'].each do |layer|
-  puts "  #{layer['layer']}"
-  Layer.create(:id              => layer['id'],
-               :layer           => layer['layer'],
-               :refreshInterval => layer['refreshInterval'],
-               :refreshDistance => layer['refreshDistance'],
-               :fullRefresh     => layer['fullRefresh'],
-               :showMessage     => layer['showMessage'],
-               :biwStyle        => layer['biwStyle'],
-              )
-end
+# TODO: Catch error if no layer
 
-puts "POIs ..."
+all_pois = POI.all(:layerID => layer["id"])
+# all_pois = POI.all
 
-if config['pois']
-  config['pois'].each do |poi|
-    begin
-      puts "  #{poi['title']}"
-      POI.create(
-          :id                  => poi['id'],
-          :layerID             => poi['layerID'],
-          :title               => poi['title'],
-          :description         => poi['description'],
-          :footnote            => poi['footnote'],
-          :lat                 => poi['lat'],
-          :lon                 => poi['lon'],
-          :imageURL            => poi['imageURL'],
-          :biwStyle            => poi['biwStyle'],
-          :alt                 => poi['alt'],
-          :doNotIndex          => poi['doNotIndex'],
-          :showSmallBiw        => poi['showSmallBiw'],
-          :showBiwOnClick      => poi['showBiwOnClick'],
-          :poiType             => poi['poiType'],
-          :iconID              => poi['iconID'],
-          :objectID            => poi['objectID'],
-          :transformID         => poi['transformID'],
-          )
-    rescue Exception => e
-      puts e
+# TODO: Handle case of no POIs with proper error message
+
+latitude = params["lat"][0].to_f
+longitude = params["lon"][0].to_f
+
+radius = params["radius"][0].to_i || 500
+
+hotspots = []
+
+all_pois.each do |poi|
+  next if poi.distance(latitude, longitude) > radius
+  # puts poi["title"]
+  hotspot = Hash.new
+  hotspot["id"] = poi["id"]
+  hotspot["text"] = {
+    "title" => poi["title"],
+    "description" => poi["description"],
+    "footnote" => poi["footnote"]
+  }
+  hotspot["imageURL"] = poi["imageURL"]
+  hotspot["anchor"] = {"geolocation" => {"lat" => poi["lat"], "lon" => poi["lon"]}}
+  hotspot["biwStyle"] = poi["biwStyle"]
+  hotspot["showSmallBiw"] = poi["showSmallBiw"]
+  hotspot["showBiwOnClick"] = poi["showBiwOnClick"]
+
+  # Associate any actions
+  actions = POIAction.all(:poiID => poi["id"])
+  if actions.length > 0 # ??
+    # puts poi["title"]
+    hotspot["actions"] = []
+    actions.each do |action|
+      # puts action["uri"]
+      # puts action["label"]
+      hotspot["actions"] << {
+        "uri" => action["uri"],
+        "label" => action["label"],
+        "contentType" => action["contentType"],
+        "activityType" => action["activityType"],
+        "method" => action["method"]
+      }
     end
   end
-end
 
-puts "POI Actions ..."
-
-if config['poiActions']
-  config['poiActions'].each do |poiaction|
-    puts "  #{poiaction['label']}"
-    begin
-      POIAction.create(
-                :id               => poiaction['id'],
-                :poiID            => poiaction['poiID'],
-                :label            => poiaction['label'],
-                :uri              => poiaction['uri'],
-                :autoTriggerRange => poiaction['autoTriggerRange'],
-                :autoTriggerOnly  => poiaction['autoTriggerOnly'],
-                :contentType      => poiaction['contentType'],
-                :method           => poiaction['method'],
-                :activityType     => poiaction['activityType'],
-                :params           => poiaction['params'],
-                :closeBiw         => poiaction['doNotIndex'],
-                :showActivity     => poiaction['showActivity'],
-                :activityMessage  => poiaction['activityMessage'],
-                :autoTrigger      => poiaction['autoTrigger'],
-                )
-    rescue Exception => e
-      puts e
-    end
+  # Is there an icon?
+  if poi["iconID"]
+    icon = Icon.get(poi["iconID"])
+    hotspot["icon"] = {
+      "url" => icon["url"],
+      "type" => icon["type"]
+    }
   end
+
+  hotspots << hotspot
 end
 
-# TO DO Add LayerAction loading here
+errorcode = 0 # Can be 20-29 if there is an error ... use this.
+errorstring = ""
 
-puts "Icons ..."
+response = {
+  "layer" => layer["layer"],
+  "biwStyle" => layer["biwStyle"],
+  "showMessage" => layer["showMessage"],
+  "refreshDistance" => layer["refreshDistance"],
+  "refreshInterval" => layer["refreshInterval"],
+  "hotspots" => hotspots,
+  "errorcode" => errorcode,
+  "errorstring" => errorstring,
+}
+# TODO add layer actions
 
-if config['icons']
-  config['icons'].each do |icon|
-    puts "  #{icon['label']}"
-    begin
-      Icon.create(
-           :id               => icon['id'],
-           :label            => icon['label'],
-           :url              => icon['url'],
-           :type             => icon['type'],
-           )
-    rescue Exception => e
-      puts e
-    end
-  end
+if ! params["radius"]
+  response["radius"] = radius
 end
 
-puts "Objects ..."
-
-if config['objects']
-  config['objects'].each do |o|
-    puts "  #{o['url']}"
-    begin
-      LayarObject.create(
-                  :id               => o['id'],
-                  :url              => o['url'],
-                  :reducedURL       => o['reducedURL'],
-                  :contentType      => o['contentType'],
-                  :size             => o['size'],
-                  )
-    rescue Exception => e
-      puts e
-    end
-  end
-end
-
-puts "Transforms ..."
-
-if config['transforms']
-  config['transforms'].each do |t|
-    puts "  #{t['id']}"
-    begin
-      Transform.create(
-                :id               => t['id'],
-                :rel              => t['rel'],
-                :angle            => t['angle'],
-                :rotate_x         => t['rotate_x'],
-                :rotate_y         => t['rotate_y'],
-                :rotate_z         => t['rotate_z'],
-                :translate_x      => t['translate_x'],
-                :translate_y      => t['translate_y'],
-                :translate_z      => t['translate_x'],
-                :scale            => t['scale'],
-                )
-    rescue Exception => e
-      puts e
-    end
-  end
-end
-
+puts response.to_json

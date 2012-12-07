@@ -39,11 +39,11 @@ actions = []
 icons = []
 
 layers = [{
-    "layer" => "York University",
+    "layer" => "yorkuniversitytoronto",
     "id" => 1,
     "refreshInterval" => 300,
     "refreshDistance" =>  100,
-    "fullRefresh" => 1,
+    "fullRefresh" => true,
     "showMessage" => "",
     "biwStyle" => "classic"
   }
