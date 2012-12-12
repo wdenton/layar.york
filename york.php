@@ -381,7 +381,7 @@ function getHotspots( $db, $value ) {
          WHERE POI.poiType = "geo"   
         HAVING distance < :radius
       ORDER BY distance ASC
-         LIMIT 0, 50 ' );
+         );
 
   // PDOStatement::bindParam() binds the named parameter markers to the
   // specified parameter values. 
